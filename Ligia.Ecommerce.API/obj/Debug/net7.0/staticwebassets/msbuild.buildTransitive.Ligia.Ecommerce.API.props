@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ligia.Ecommerce.API.props" />
+</Project>
